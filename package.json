@@ -1,11 +1,19 @@
 {
-  "name": "p1-age-calculator",
+  "name": "age_calculator",
   "version": "1.0.0",
-  "description": "",
+  "description": "to use this package you need to require this and pass your date of birth  you can input your date of birth in Year/Month/Date format and will get age.",
   "main": "age.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Siddarth",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mewara597/age_calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mewara597/age_calculator/issues"
+  },
+  "homepage": "https://github.com/Mewara597/age_calculator#readme"
 }
